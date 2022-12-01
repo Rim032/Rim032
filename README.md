@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rim032.
-- 👀 I’m interested in modding, level design and coding.
-- 🌱 I often code in C, C# and Lua. Furthermore, I also model and map.
-- 📫 You can call me Rim and here's my Steam link https://steamcommunity.com/id/2711041284655
+-  Hi, I’m Rim032.
+-  I’m interested in modding, level design and coding.
+-  I often code in C, C# and Lua. Furthermore, I also model and map.
+-  You can call me Rim and here's my Steam link https://steamcommunity.com/id/2711041284655
