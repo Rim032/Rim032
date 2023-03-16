@@ -1,3 +1,3 @@
 -  Hi, I’m Rim032.
 -  I’m interested in modding, level design, coding and chemistry.
--  I often code in C, C# and Lua. Furthermore, I also model and map.
+-  I often code in C, C#, C++ and Lua. Furthermore, I also model and map.
